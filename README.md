@@ -130,19 +130,19 @@ npm run serve
 
 ### 算法库
 
-![1](pic/1.png)
+![1](vue/src/1.png)
 
 
 
 ### 分类管理
 
-![2](pic/2.png)
+![2](vue/src/2.png)
 
 
 
 ### 用户管理
 
-![3](pic/3.png)
+![3](vue/src/3.png)
 
 
 
