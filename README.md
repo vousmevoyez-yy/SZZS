@@ -128,34 +128,21 @@ npm run serve
 
 ## 系统效果
 
-### 系统登陆
+### 算法库
 
-<font color=red>(出现一个登录系统的页面，类似下面这种，但是换成我们自己的这种主页)</font>
-
-![image-20211206203512656](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211206203512656.png)
+![1](pic/1.png)
 
 
 
 ### 分类管理
 
-<font color=red>(出现一个分类管理的页面，类似下面这种，但是换成我们自己的这种主页)</font>
-
-![image-20211206203739743](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211206203739743.png)
+![2](pic/2.png)
 
 
 
-### 其他功能
+### 用户管理
 
-<font color=red>(然后可以多放几个我们自己的功能在上面，这里因为没定就不一一展示了)</font>
-
-
-
-### 树结构数据
-
-<font color=red>(也是类似下面这种，可以换成我们自己的)</font>
-
-![image-20211206204018321](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211206204018321.png)
-
+![3](pic/3.png)
 
 
 
