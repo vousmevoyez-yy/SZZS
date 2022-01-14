@@ -1,6 +1,6 @@
 # SZZS/SpringBoot+Vue
 
-当前最新版本： 0.1.0（发布日期：2021-12-01）
+当前最新版本： 0.1.1（发布日期：2021-12-12）
 
 
 
@@ -8,7 +8,7 @@
 
 SZZS，是一款面向生物信息学相关研究工作者的生物信息学基本知识管理系统，采用前后端分离架构：SpringBoot，Mybatis-Plus，Axios&Vue，Vue-Router，Vuex，ElementUI。项目基于多年来生物信息学的发展历程，由本组成员对算法、科研文献等领域的数据进行整合和设计；产品满足了用户登录、权限分配、分类查询、在线聊天等功能，可以满足用户灵活多样的个性化的管理需求。
 
-前端：Vue，Vue-Router，Vuex，Axios，ElementUI
+前端：Vue，Vue-Router，VueX，Axios，ElementUI
 
 后台：SpringBoot，Mybatis-Plus
 
